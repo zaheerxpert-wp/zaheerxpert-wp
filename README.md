@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Muhammad Zaheer 👋</h1>
 <p align="center">
   <b>WordPress Developer & SEO Expert</b> <br>
-  🚀 Building fast, optimized websites for over 2 years
+  🚀 Building fast, optimized websites 
 </p>
 
 ---
