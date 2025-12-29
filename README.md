@@ -1,50 +1,57 @@
-<h1 align="center">Hi there, I'm Muhammad Zaheer 👋</h1>
+<h1 align="center">Hi, I'm Muhammad Zaheer 👋</h1>
+
 <p align="center">
-  <b>WordPress Developer & SEO Expert</b> <br>
-  🚀 Building fast, optimized websites 
+  <b>Web Developer • WordPress • PHP • SEO</b><br/>
+  Building clean, maintainable, and performance-focused websites
 </p>
 
 ---
 
-- 🔭 Currently working at **Abramsoft (Pvt) Ltd**, Lahore
-- 🛠️ Skills: <br>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff" /> 
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff" /> 
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=333" />
-  <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=fff" /> 
-  <img src="https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=fff" />
-- 📍 Location: Lahore, Pakistan
-- 📧 Email: [zaheerxpert.official@gmail.com](mailto:zaheerxpert.official@gmail.com)
-- 🕒 Local Time: Lahore, Pakistan (UTC+5)
-- 👨‍💼 Pronouns: Mr
-
----
-
 ### 👨‍💻 About Me
+I work in **web development** with a strong focus on **WordPress, PHP, and SEO**, building reliable websites and improving their structure, performance, and visibility.
 
-I'm Muhammad Zaheer — a passionate WordPress developer and SEO expert committed to building high-performance, user-friendly websites. With 2+ years of hands-on experience, I specialize in:
-
-- Custom WordPress theme & plugin development
-- Website speed optimization
-- Technical SEO & on-page improvements
-- Responsive UI with modern HTML5, CSS3, and JavaScript
+I enjoy solving real-world problems, debugging issues, and sharing clear, practical solutions.
 
 ---
 
-### 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-zaheer247/)
-[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?logo=fiverr&logoColor=white)](https://www.fiverr.com/mzaheerofficial?public_mode=true)
+### 🧰 Technologies & Tools
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=333" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" />
+  <img src="https://img.shields.io/badge/SEO-0A66C2?logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Search%20Console-4285F4?logo=google&logoColor=white" />
+</p>
 
 ---
 
+### 🧩 What I Work On
+- WordPress themes, plugins, and custom post types  
+- HTML/CSS layouts and frontend fixes  
+- PHP debugging and backend improvements  
+- **On-page & technical SEO** (structure, metadata, performance)  
+- Website speed, Core Web Vitals, and best practices  
 
-### 📫 Let's Collaborate!
+---
 
-If you have a project in mind or need help with WordPress or SEO, feel free to [email me](mailto:zaheerxpert.official@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/muhammad-zaheer247/).
+### 🏢 Experience
+- **AbramSoft (Pvt) Ltd** — Lahore, Pakistan  
+
+---
+
+### 📍 Location
+Lahore, Pakistan (UTC +5)
+
+---
+
+### 🔗 Connect
+- LinkedIn: https://www.linkedin.com/in/muhammad-zaheer247
 
 ---
 
 <p align="center">
-  <i>Thank you for visiting my profile!</i>
+  <i>Thanks for visiting my GitHub profile.</i>
 </p>
