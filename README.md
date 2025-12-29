@@ -48,7 +48,8 @@ Lahore, Pakistan (UTC +5)
 ---
 
 ### 🔗 Connect
-- LinkedIn: https://www.linkedin.com/in/muhammad-zaheer247
+- LinkedIn: https://www.linkedin.com/in/muhammad-zaheer247  
+- Fiverr: https://www.fiverr.com/mzaheerofficial
 
 ---
 
