@@ -172,7 +172,7 @@ I specialize in building **high-performance websites**, optimizing them for sear
 ---
 
 ## 📍 Location
-Pakpattan, Punjab, Pakistan (UTC +5)
+Lahore, Punjab, Pakistan (UTC +5)
 
 ---
 
