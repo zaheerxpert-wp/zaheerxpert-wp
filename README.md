@@ -13,12 +13,6 @@ I am a professional **WordPress Developer, SEO Specialist, and Shopify Expert** 
 I specialize in building **high-performance websites**, optimizing them for search engines, and managing complete digital projects from development to deployment. My focus is on **performance, scalability, user experience, and conversion optimization**.
 
 ---
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zaheersoft&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaheersoft&layout=compact" />
-</p>
 
 ## 🚀 Core Expertise
 
